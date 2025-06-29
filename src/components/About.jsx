@@ -85,7 +85,7 @@ const About = () => {
               2018
             </div>
             <div className="timeline-desc text-lg font-medium mt-1 select-text">
-              Choreographing My Voice in Motion
+              my first dance show
             </div>
           </div>
           
@@ -95,7 +95,7 @@ const About = () => {
               2019
             </div>
             <div className="timeline-desc text-lg font-medium mt-1 select-text">
-              The Stage Was Set. I Delivered.
+              my first stage performance
             </div>
           </div>
           
@@ -105,7 +105,7 @@ const About = () => {
               2022
             </div>
             <div className="timeline-desc text-lg font-medium mt-1 select-text">
-              When Passion Met Stardom
+              my first solo choreography
             </div>
           </div>
         </div>
